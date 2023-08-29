@@ -1,0 +1,16 @@
+{
+    "workbench.colorCustomizations": {
+        "[Community Material Theme]": {
+            "scope": [
+                "constant.numeric"
+            ],
+            "settings": {
+                "foreground": "#ebb82c",
+                "fontStyle": "bold"
+            }
+        },
+        "activityBar.background": "#482414",
+        "titleBar.activeBackground": "#65321C",
+        "titleBar.activeForeground": "#FEFCFB"
+    }
+}
